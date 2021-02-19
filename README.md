@@ -1,7 +1,7 @@
 ### Hi guys! 👋
 
 
-- 🔭 I’m currently on a interchip on @Vtex
+- 🔭 I’m currently on a intership on @Vtex
 - 🌱 I’m currently learning React
 - 🤔 I’m looking for help with NodeJs, React, GraphQL
 - 💬 Ask me about Html, Css and JavaScript
