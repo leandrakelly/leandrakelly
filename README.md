@@ -1,7 +1,7 @@
 ### Hi guys! 👋
 
 
-- 🔭 I’m currently on a intership on @Vtex
+- 🔭 I’m currently on a intership with Vtex
 - 🌱 I’m currently learning React
 - 🌱 Software Engineer in progress on UFC!
 - 🤔 I’m looking for help with NodeJs, React, GraphQL
