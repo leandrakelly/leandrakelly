@@ -1,4 +1,4 @@
-### Hi guys! 👋
+### Hi! 👋
 
 
 - 🔭 I’m currently on a intership with Vtex
