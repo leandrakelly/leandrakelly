@@ -1,6 +1,6 @@
 ## Hi! I'm Kelly Alves
 
-- I'm a 21-year-old brazilian currently studying Software Engineering.
+- I'm a 23-year-old brazilian currently studying Software Engineering.
 - Experience with TypeScript, Javascript, unit tests, and some Frameworks, like ReactJs, Express and others.
 - Cosplayer🌱
 
